@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: rgba(250, 0, 0, 0.30);
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#oneId {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.odd.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: hsla(120, 100%, 49%, 0.5);
+    font-weight: bold;
+    font-size: 24px;
+}
